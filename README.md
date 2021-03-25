@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😃my name is XDEcat,一个code爱好者
+- 🔭 I’m currently working on CML_TakeOut
+- 🌱 I’m currently learning JavaScript/React、go
+- 📫 How to reach me: 492697494@qq.com
+- 😄 Pronouns: Hello,World!
