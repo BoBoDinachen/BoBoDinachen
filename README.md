@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 😃my name is XDEcat,喜欢音乐、动漫、游戏、以及编程
-- 🔭 I’m currently working on CML_TakeOut...
 - 🌱 I’m currently learning JavaScript/React/Vue
 - 📫 How to reach me: 492697494@qq.com
 - 😄 Pronouns: Hello,World!
