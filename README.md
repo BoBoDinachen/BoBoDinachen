@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/node.svg"></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/phaser.png"></code></a>
 ### Profile 🧪
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=BoBoDinachen)</br>
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=BoBoDinachen&show_icons=true&count_private=true)
