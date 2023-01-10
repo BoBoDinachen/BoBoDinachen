@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/node.svg"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/phaser.png"></code></a>
 ### Profile 🧪
-![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=BoBoDinachen&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoDinachen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=BoBoDinachen&theme=radical)&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoDinachen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=BoBoDinachen&show_icons=true&count_private=true&theme=radical)
