@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😃I'm BoBo. I like game development, anime, music, and am good at JavaScript！
+- 😃 I'm BoBo. I like game development, anime, music, and am good at JavaScript！
 - ✨ Learning about typescript and game development.
 - 📫 How to reach me: 492697494@qq.com
+### Skill 🛠️
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 ### Profile 🧪
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=BoBoDinachen)</br>
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=BoBoDinachen&show_icons=true&count_private=true)
