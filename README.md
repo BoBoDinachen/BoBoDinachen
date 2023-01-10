@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😃my name is XDEcat,喜欢音乐、动漫、游戏、以及编程
-- 🌱 I’m currently learning JavaScript/React/Vue
+- 😃I'm BoBo. I like game development, anime, music, and am good at JavaScript！
+- ✨ Learning about typescript and game development.
 - 📫 How to reach me: 492697494@qq.com
-- 😄 Pronouns: Hello,World!
+### Profile 🧪
+![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=BoBoDinachen)</br>
+![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=BoBoDinachen&show_icons=true&count_private=true)
