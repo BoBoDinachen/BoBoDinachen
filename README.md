@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😃 I'm BoBo. I like game development, anime, music, and am good at JavaScript！
-- ✨ Learning about typescript and game development.
+- ✨ Learning about typescript and game development `phaser.js`.
 - 📫 How to reach me: 492697494@qq.com
 ### Skill 🛠️
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
